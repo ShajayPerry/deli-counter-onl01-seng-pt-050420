@@ -1,5 +1,6 @@
 # Write your code here.
-def line(array)
+def line(deli)
+  
   
 end 
     
